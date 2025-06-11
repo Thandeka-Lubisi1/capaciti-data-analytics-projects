@@ -16,6 +16,8 @@ Each folder corresponds to a weekly topic and contains Jupyter Notebooks, pseudo
 - Real-world Datasets
 - Machine Learning Concepts
 - Mini Project & Presentation
+- Work Projects
+- Data Wizards_Sales Storytelling Activity
 
 > Created by: Thandeka Lubisi & team  
 > Programme: Capaciti 2025 – Data Analytics Track
